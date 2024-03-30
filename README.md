@@ -6,7 +6,7 @@ Software Dev/Data Science
 
 I'm a recent Biomedical Science Graduate switching to a technology focused career.
 
-*   🌍  I'm based in London
+*   🌍  I'm based in London.
 *   ✉️  You can contact me at [vince.adeola@outlook.com](mailto:vince.adeola@outlook.com)
 *   🧠  I'm learning Three.js, Processing and 3D Graphics.
   
