@@ -4,7 +4,7 @@ Hi 👋 My name is Vincent Adeola
 Software Dev/Data Science
 -------------------------
 
-I am a recent Biomedical Science Graduate switching careers to the Tech Industry.
+I am a recent Biomedical Science Graduate switching to a technology focused career.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [vince.adeola@outlook.com](mailto:vince.adeola@outlook.com)
