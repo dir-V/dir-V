@@ -8,7 +8,7 @@ I'm a recent Biomedical Science Graduate switching to a technology focused caree
 
 *   🌍  I'm based in London.
 *   ✉️  You can contact me at [vince.adeola@outlook.com](mailto:vince.adeola@outlook.com)
-*   🧠  I'm learning Three.js, Processing, 3D Graphics and Gen AI.
+*   🧠  I'm interested 3D Graphics, Computer Vision and Artificial Intelligence
   
 ![tjsdemo](https://github.com/dir-V/dir-V/assets/121815639/b7f3dc44-23a6-43d2-9f58-6f05611d8dc0)
 
